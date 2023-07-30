@@ -1,0 +1,4 @@
+jupyterlab
+dgl
+igraph
+torch-geometric
